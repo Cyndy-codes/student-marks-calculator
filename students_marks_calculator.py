@@ -22,6 +22,6 @@ else:
 print("\n----STUDENTS PROJECT----")
 print("student:", name)
 print("total:", total)
-print("average:", average)
+print("student average mark:", average)
 print("Grade:", grade)
 print("Thank you for using the students_marks_calculator")
