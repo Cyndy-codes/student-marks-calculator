@@ -1,0 +1,86 @@
+Student: dan
+Total:220.0
+Average:55.0
+Grade:C
+
+------------------------Student: v
+Total:260.0
+Average:65.0
+Grade:B
+
+------------------------Student: faith
+Total:127.0
+Average:31.75
+Grade:E
+
+------------------------Student: bts
+Total:360.0
+Average:90.0
+Grade:A
+
+------------------------Student: ras
+Total:192.0
+Average:48.0
+Grade:D
+
+------------------------Student: gabi
+Total:106.0
+Average:26.5
+Grade:E
+
+------------------------Student: nana
+Total:220.0
+Average:55.0
+Grade:C
+
+------------------------Student:  gael
+Total:299.0
+Average:74.75
+Grade:A
+
+------------------------Student: 40
+Total:279.0
+Average:69.75
+Grade:B
+
+------------------------Student: bd
+Total:260.0
+Average:65.0
+Grade:B
+
+------------------------Student: fariah
+Total:222.0
+Average:55.5
+Grade:C
+
+------------------------Student: fgu
+Total:269.0
+Average:67.25
+Grade:B
+
+------------------------Student: kelvin
+Total:255.0
+Average:63.75
+Grade:B
+
+------------------------Student: gabi
+Total:195.0
+Average:48.75
+Grade:D
+
+------------------------Student: trisha
+Total:151.0
+Average:37.75
+Grade:E
+
+------------------------Student: nami
+Total:280.0
+Average:70.0
+Grade:A
+
+------------------------Student: garrio
+Total:204.0
+Average:51.0
+Grade:C
+
+------------------------

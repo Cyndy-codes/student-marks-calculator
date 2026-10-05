@@ -1,0 +1,6 @@
+Student: gasd
+Total:240.0
+Average:60.0
+Grade:B
+
+------------------------
